@@ -1,0 +1,25 @@
+{
+  "name": "hubot-mail-notifier",
+  "version": "0.0.1",
+  "author": "Matteo Agosti <matteo@matteoagosti.com>",
+  "description": "A mail notifier plugin for hubot",
+  "main": "./src/mail-notifier",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matteoagosti/hubot-mail-notifier.git"
+  },
+  "keywords": [
+    "hubot",
+    "mail",
+    "imap"
+  ],
+  "dependencies": {
+    "coffee-script": "~1.6.3",
+    "mail-listener": "https://github.com/matteoagosti/mail-listener/tarball/master",
+    "moment": "~2.0.0"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  }
+}
