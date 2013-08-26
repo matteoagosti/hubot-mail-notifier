@@ -15,7 +15,7 @@
   ],
   "dependencies": {
     "coffee-script": "~1.6.3",
-    "mail-listener": "https://github.com/matteoagosti/mail-listener/tarball/master",
+    "mail-listener": "~0.7.1",
     "moment": "~2.0.0"
   },
   "license": "MIT",
